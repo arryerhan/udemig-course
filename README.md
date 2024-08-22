@@ -1,6 +1,6 @@
 # udemig-course
 
-I used Html Css and Scss components for this course's web site.
+I used Html Css and Scss components for this course web site.
 
 # Features:
 - Responsive Design
